@@ -1,7 +1,16 @@
 git learning 
 install
 cmd - git config 
- git clone https://github.com/Sandyman8/git-learning.git
-  git status
-  cd git-learning
+ 1.git clone https://github.com/Sandyman8/git-learning.git
+  2.git status
+  3.cd git-learning
   clear
+ 5. git status
+ 4. git add .
+  6. git commit -m "a"
+ <2>
+  git status
+  git add .
+  git commit -m "commit msg"
+  git status
+  git push origin main
