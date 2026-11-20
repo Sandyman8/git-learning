@@ -1,0 +1,7 @@
+git learning 
+install
+cmd - git config 
+ git clone https://github.com/Sandyman8/git-learning.git
+  git status
+  cd git-learning
+  clear
