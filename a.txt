@@ -14,3 +14,7 @@ cmd - git config
   git commit -m "commit msg"
   git status
   git push origin main
+
+<3>
+
+git change <git pull origin main>
